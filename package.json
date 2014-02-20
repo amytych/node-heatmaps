@@ -1,0 +1,33 @@
+{
+  "name": "heatmaps",
+  "version": "0.0.1",
+  "description": "Library for node canvas based heatmaps",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {
+    "canvas": "1.0.x"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/amytych/node-heatmaps.git"
+  },
+  "keywords": [
+    "heatmap",
+    "canvas",
+    "node"
+  ],
+  "author": "Arek Mytych <amytych@gmail.com>",
+  "license": "MIT/Beerware",
+  "engine": {
+    "node": ">=0.4"
+  },
+  "bugs": {
+    "url": "https://github.com/amytych/node-heatmaps/issues"
+  },
+  "_from": "heatmaps@0.0.1",
+  "homepage": "https://github.com/amytych/node-heatmaps"
+}
