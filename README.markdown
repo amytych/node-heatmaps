@@ -1,8 +1,8 @@
-HeatmapJS
+Heatmaps
 =========
 
-Node port of excellent heatmap.js library
-Info and docs can be found on the [original github page](https://github.com/pa7/heatmap.js)
+Node port of excellent heatmap.js library.
+Info and docs can be found on the [original github page](https://github.com/pa7/heatmap.js).
 
 
 Example
