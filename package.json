@@ -21,7 +21,7 @@
     "node"
   ],
   "author": "Arek Mytych <amytych@gmail.com>",
-  "license": "MIT/Beerware",
+  "license": "MIT",
   "engine": {
     "node": ">=0.4"
   },
