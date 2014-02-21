@@ -18,7 +18,7 @@ function createCanvas(width, height) {
   }
 }
 
-module.exports.Heatmap = function (config) {
+module.exports.create = function (config) {
   return new Heatmap(config);
 };
 

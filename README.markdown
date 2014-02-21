@@ -9,9 +9,9 @@ Example
 =======
 
 ````javascript
-var heatmap = require('heatmaps').Heatmap;
+var heatmap = require('heatmaps');
 
-var h = heatmap({
+var h = heatmap.create({
   radius: 15,
   width: 500,
   height: 500
@@ -25,7 +25,7 @@ h.store.setDataSet({
 });
 
 // Get buffer which you could use as a request response or write it to a file
-image = h.getImageBuffer()
+image = h.getImageBuffer();
 ````
 
 Install
